@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LoginSample {
     // Sample hardcoded credentials
-    private static final String USERNAME = "admin";
+    private static final String USERNAME = "ec2-user";
     private static final String PASSWORD = "ASDasd123";
 
     public static void main(String[] args) {
